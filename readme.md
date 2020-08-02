@@ -1,4 +1,5 @@
-# init_in_machine_learning
+## Description:
+Introduction to scikit-learn module, Data preprocessing and visualization, Classification, Clustering, Gradient descent for linear regression 
 
 to contact me: ridouaniayoub@gmail.com
 
